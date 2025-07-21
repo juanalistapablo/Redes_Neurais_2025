@@ -1,6 +1,6 @@
 # Análise de Sobreviventes do Titanic
 
-Este projeto realiza uma análise exploratória de dados (EDA) e modelagem preditiva dos passageiros do Titanic. O objetivo principal é identificar fatores que influenciam a sobrevivência no naufrágio e construir um modelo de Machine Learning para prever a sobrevivência de novos passageiros com base nas suas características.
+Este projeto realiza uma análise exploratória de dados (EDA) e modelagem preditiva dos passageiros do Titanic. O objetivo principal é identificar fatores que influenciam a sobrevivência no naufrágio e construir um modelo de Deep Learning para prever a sobrevivência de novos passageiros com base nas suas características.
 
 ## Estrutura do Projeto
 
